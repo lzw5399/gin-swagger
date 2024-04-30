@@ -4,9 +4,10 @@ import (
 	"github.com/gin-contrib/gzip"
 	"github.com/gin-gonic/gin"
 	swaggerFiles "github.com/swaggo/files"
-	"github.com/swaggo/gin-swagger"
 
-	_ "github.com/swaggo/gin-swagger/example/basic/docs"
+	"github.com/lzw5399/gin-swagger"
+
+	_ "github.com/lzw5399/gin-swagger/example/basic/docs"
 )
 
 // @title Swagger Example API
